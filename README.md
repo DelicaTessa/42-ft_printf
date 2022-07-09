@@ -16,8 +16,8 @@ In this project, you learn how to use variadic arguments.
 > Run the following commands. You can replace the ```test.c``` with your own test file
 
 ```shell
-$ git clone https://github.com/qingqingqingli/ft_printf
-$ cd ft_printf
+$ git clone https://github.com/DelicaTessa/42-ft_printf
+$ cd 42-ft_printf
 $ make
 $ gcc test.c libftprintf.a
 $ ./a.out
