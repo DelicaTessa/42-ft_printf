@@ -1,5 +1,4 @@
 # ft_printf
-[![tclement's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl59lbrtc003009jqom2qgm4z/project/1905261)](https://github.com/JaeSeoKim/badge42)<br>
 ***The aim of this project is to recode the printf function from the C Library.***
 
 In this project, you learn how to use variadic arguments. 
